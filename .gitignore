@@ -1,0 +1,7 @@
+#config files
+auth.json
+package.json
+
+#dependencies
+node_modules
+package-lock.json
